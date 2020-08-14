@@ -1,0 +1,25 @@
+{
+  "name": "gm-quick-start-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "quick start user script with typescript",
+  "author": "===author===",
+  "scripts": {
+    "build": "webpack --mode production",
+    "dev": "webpack --mode development",
+    "watch": "webpack --mode development --watch"
+  },
+  "dependencies": {
+    "@types/node": "^14.0.27",
+    "@types/tampermonkey": "^4.0.0",
+    "@types/webpack": "^4.41.21",
+    "ts-loader": "^8.0.2",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.7",
+    "webpack": "^4.44.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.12"
+  }
+}
