@@ -11,7 +11,6 @@ const banner = `// ==UserScript==
 // @author       ${pg.author}
 ${match}
 // @grant        unsafeWindow
-// @grant        GM_registerMenuCommand
 // ==/UserScript==`;
 
 const config: Configuration = {
