@@ -1,5 +1,5 @@
 # gm-quick-start-typescript
-油猴腳本 typescript 快速開發模板
+油猴腳本 typescript+webpack 快速開發模板
 
 - 使用 ```git clone https://github.com/oddstab/gm-quick-start-typescript.git``` clone到自己的資料夾下
 - 輸入 ```yarn``` or ```npm install``` 安裝依賴
