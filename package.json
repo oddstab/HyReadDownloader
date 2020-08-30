@@ -11,9 +11,12 @@
     "watch": "webpack --mode development --watch"
   },
   "dependencies": {
+    "@types/file-saver": "^2.0.1",
     "@types/node": "^14.0.27",
     "@types/tampermonkey": "^4.0.0",
     "@types/webpack": "^4.41.21",
+    "file-saver": "^2.0.2",
+    "jszip": "^3.5.0",
     "ts-loader": "^8.0.2",
     "ts-node": "^8.10.2",
     "typescript": "^3.9.7",
